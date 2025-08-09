@@ -1,0 +1,1 @@
+Testing out caching capabilities of Redis DB
